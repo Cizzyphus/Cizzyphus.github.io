@@ -1,0 +1,49 @@
+.frame{
+
+    margin: 20px;
+
+}
+
+
+
+.background{
+
+    border: 20px;
+
+    padding: 20px;
+
+    margin: auto;
+
+    background: black;
+
+    opacity: 0.8;
+
+    border-radius: 25px;
+
+    width: 850px;
+
+    height: 650px;
+
+
+
+}
+
+
+
+.cal{
+
+    border-width: 0;
+
+    margin: auto;
+
+    width: 800px;
+
+    height: 600px;
+
+}
+
+.calendartitle {
+    position: center;
+    text-align: center;
+    color: white;
+}

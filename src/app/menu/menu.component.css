@@ -1,0 +1,13 @@
+.menu {
+    padding: 0.5em;
+background:   #000000;
+opacity: 0.8;
+margin: auto;
+display: block;
+}
+
+.menuu {
+    position: center;
+    text-align: center;
+    color: white;
+}

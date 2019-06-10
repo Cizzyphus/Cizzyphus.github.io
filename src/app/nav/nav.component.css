@@ -1,0 +1,36 @@
+header {
+    background: black;
+    opacity: 0.8;
+}
+header .logo {
+    font-weight: bold;
+}
+header nav {
+    justify-self: right;
+}
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+header nav ul li {
+    float: left;
+}
+header nav ul li a {
+    padding: 1.5em;
+    text-transform: uppercase;
+    font-size: 0.8em;
+}
+
+ .coffeesvg{
+    vertical-align: left;
+    opacity: 1;
+    color: white;
+}
+
+.coffeesvge {
+    vertical-align: middle;
+     float: left; 
+     opacity:1;
+    color: white;
+}

@@ -1,0 +1,38 @@
+p {
+color: white;
+padding: 0.5em;
+background:  black;
+font-size: 16px;
+opacity: 0.8;
+}
+
+h2 { 
+    color: white;
+    padding: 0.5em;
+background:   black;
+font-size: 20px;
+opacity: 0.8;
+
+}
+
+.centerthis { 
+    color: white;
+    padding: 0.5em;
+background:   black;
+font-size: 24px;
+opacity: 0.8;
+
+}
+
+.bordered {
+padding: 0.5em;
+
+}
+
+.abouttitle {
+    position: center;
+    text-align: center;
+    color: white;
+}
+
+/* #ebd6b8  Background for SOMA*/
